@@ -1,0 +1,2 @@
+# ArtOperationsEcosystem
+THE ART OPERATIONS ECOSYSTEM (c) 2015
