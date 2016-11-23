@@ -7,4 +7,5 @@ THE ART OPERATIONS ECOSYSTEM (c) 2015
 * Many ArtOps interact with many BrokerOps who interact with a single Art Exchange, at least that is the simplest setup.
 * This began as a system I was modelling for a series of novels I've been writing. It's something that characters in the novel will be building, these interconnected systems of Distributed Autonomous Organizations.
 
-A.G. (c) 2015
+[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
+(https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
