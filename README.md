@@ -1,4 +1,7 @@
 # Art Operations Ecosystem
+
+![](https://historiotheque.wordpress.com/wp-content/uploads/2024/09/artopeationsecocystem_2024.png)
+
 THE ART OPERATIONS ECOSYSTEM (c) 2015
 
 * The "ArtOps" circles represent what  "Art Operations" in the Art Operations Ecosystem. They represent "art practises" modelled as DAOs or "distributed autonomous organizations".
